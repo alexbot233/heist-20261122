@@ -1,0 +1,6 @@
+{
+  "name": "midnight-vault",
+  "private": true,
+  "type": "module",
+  "description": "Midnight Vault - an original offline Canvas heist game"
+}
